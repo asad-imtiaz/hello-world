@@ -1,2 +1,3 @@
 this is branch addfile.
 this is new content.
+this is after stashing . stashed statement will come after this when i apply... or will it?
